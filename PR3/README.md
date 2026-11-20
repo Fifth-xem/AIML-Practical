@@ -220,3 +220,7 @@ python3 Chaining.py
 ```
 
 No additional Python packages are required.
+
+
+facts = {"Fever", "Cough", "BodyPain"}
+Rule(["Fever", "Cough"], "Flu")
